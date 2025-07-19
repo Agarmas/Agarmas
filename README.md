@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Antonio Garrido Massé
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineering specializing in Information Systems.
+Welcome to my GitHub profile! I'm a passionate Computer Engineer specializing in Information Systems.
 
 ## About Me
 
